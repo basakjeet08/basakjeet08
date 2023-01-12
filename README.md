@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
-# 💫 About Me:
+# 💫 About Me:<br>
 💬 Ask me about Android Development , Android , Kotlin , DSA<br>🌱 I’m currently learning Kotlin,DSA,Android Development,Competitive Coding💬 Ask me about<br>📫 How to reach me jeetbasak2002@gmail.com , 21051880@kiit.ac.in<br>📄 Know about my experiences https://drive.google.com/file/d/1U2pWScbBJAVNXuVEY0J-GNNUUat7cx2y/view?usp=share_link<br>⚡ Fun fact while(true){Lets Code XD}
 
 
